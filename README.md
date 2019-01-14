@@ -4,7 +4,7 @@ FriendFinder is an Express- and Node-based application for matching users based 
 FriendFinder is a full-stack site will take in results from the users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.
 
 ## Getting Started
-To view the site, visit [http:// .herokuapp.com/](http:// .herokuapp.com/)
+To view the site, visit [https://friendfinder-mh.herokuapp.com/](https://friendfinder-mh.herokuapp.com/)
 
 ## Technologies Used
 - Node.js/NPM (JavaScript environment/Package manager)
